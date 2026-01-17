@@ -80581,6 +80581,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zonewedgeshaft.com
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 zqtk.net
+0.0.0.0 static.dzeninfra.ru
 
 # End yoyo.org
 
